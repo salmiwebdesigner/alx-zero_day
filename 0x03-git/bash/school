@@ -1,1 +1,2 @@
-#!/bin/bash\Salmi  "School"  
+#!/bin/bash
+echo "The school is open!"
