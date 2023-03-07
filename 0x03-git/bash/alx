@@ -1,1 +1,2 @@
-#!/bin/bash\Salmi  "ALX"  
+#!/bin/bash
+echo "ALX School is so cool!"
